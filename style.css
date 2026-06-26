@@ -1,0 +1,12 @@
+.cabecalho{
+    background-color: aquamarine;
+    color:black;
+    text-align:center;
+    margin: 0 auto;
+    max-width:800px;
+}
+
+.principal{
+    background-color: black;
+    color:aquamarine;
+}
