@@ -12,8 +12,8 @@
     color:aquamarine;
 }
 
-.principal-imagem{
-    /*dimensões da imagem:latgura e altura 100 pixels*
+.imagem-principal{
+    /*dimensões da imagem:latgura e altura 100 pixels*/
     width: 100px;
     height: 100px;
 }
